@@ -16,3 +16,7 @@ Hay dos posibles clases de palos/pintas que puedes aplicar al elemento html y ha
 ## 📝 Instrucciones:
 
 Remmplaza la propiedad `spades` de la clase del `<div>` por la clase `heart` y observa los resultados.
+
+## Resultado:
+
+![Poker Card Heart](../../.learn/assets/04.2-1.png?raw=true)

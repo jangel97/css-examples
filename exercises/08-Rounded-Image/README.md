@@ -12,7 +12,7 @@ El problema con este enfoque es que solo funciona para imágenes cuadradas... La
 
 1. Usa `border-radius`.
 
-2.  Adicionalmente a `border-radius`, tenemos que también utilizar la propiedad `object-fit`, [aqui hay una explicación](https://www.loom.com/share/15186e456dfd4741887997af40325721).
+2.  Adicionalmente a `border-radius`, tenemos que también utilizar la propiedad `object-fit`, [aqui hay una explicación](https://fvsch.com/object-fit-decoration).
 
 ## 💡 Pista:
 

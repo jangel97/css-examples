@@ -29,3 +29,9 @@ Usamos CSS para selectionar todas las etiquetas `<a>` y luego hacerlas `pink`.
 ## 📝 Instrucciones
 
 1. Pega este código en tu sitio web para ver los resultados.
+
+## 💻 Vista previa:
+
+Debería verse así:
+
+![01 Hello World Exercise Preview](../../.learn/assets/01-1.png?raw=true)
